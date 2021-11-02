@@ -1,0 +1,12 @@
+:host {
+  width: 100%;
+  display: grid;
+  place-items: center;
+}
+.message {
+  padding: 10px 0;
+}
+.company-search-field {
+  display: flex;
+  flex-direction: column;
+}
